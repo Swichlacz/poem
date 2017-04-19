@@ -1,6 +1,9 @@
- #First Came the rain, loud, with sonorous lips;
-    _A pursuivant who heralded a prince:_
-    And dawn put on her livery of tints,
+ # First Came the rain, loud, with sonorous lips;
+ 
+ _A pursuivant who heralded a prince:_
+    
+    
+And dawn put on her livery of tints,
     And dusk bound gold about her hair and hips:
     And, all in silver mail, the sunlight came,
     A knight, who bade the winter let him pass;
